@@ -1,0 +1,19 @@
+                                                      Comandos basicos
+git init
+
+git confing --global User.name "jesabogal01-source"
+
+git confing --global user.email jesabogal01@inemkennedy.edu.co
+
+git config user.name
+
+git config user.email
+
+clear
+
+git status
+
+git add .
+
+git commit -m "listo para subir"
+

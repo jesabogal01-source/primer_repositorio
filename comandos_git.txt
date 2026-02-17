@@ -17,3 +17,7 @@ git add .
 
 git commit -m "listo para subir"
 
+git remote add origin https://github.com/jesabogal01-source/primer_repositorio.git
+
+git push-u origin master
+
